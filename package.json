@@ -1,0 +1,16 @@
+{
+  "name": "light-roast",
+  "description": "A simple CLI tool for creating complex, mult-tiered commands with arguments and options",
+  "version": "0.0.1",
+  "contributors": [
+    {
+      "name": "Brandon Eum",
+      "email": "brandon@coldbrewcoding.com"
+    }
+  ],
+  "license": "apache",
+  "main": "./index.js",
+  "dependencies": {
+    "commander": "^2.8.1"
+  }
+}
