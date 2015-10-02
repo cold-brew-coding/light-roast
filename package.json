@@ -1,7 +1,7 @@
 {
   "name": "light-roast",
   "description": "A simple CLI tool for creating complex, mult-tiered commands with arguments and options",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "contributors": [
     {
       "name": "Brandon Eum",
